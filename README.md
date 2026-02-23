@@ -151,6 +151,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Download engine for 1000+ sites. The backbone of most media download bots.
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Download images from galleries and image hosting sites.
 - [Telegram Bot API Server](https://github.com/tdlib/telegram-bot-api) - Self-hosted Bot API server for 2 GB file uploads (vs 50 MB default).
+- [Stickerify](https://github.com/Stickerifier/Stickerify) - Telegram bot to convert medias into the format required to be used as Telegram stickers.
 
 ## Group Management
 
