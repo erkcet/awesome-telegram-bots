@@ -207,7 +207,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Maintainer
 
-**Erkan** — Ohio State University, Computer Science & Engineering '12. Building bots, curating resources, and automating everything.
+**Erkan**
 
 - GitHub: [@erkcet](https://github.com/erkcet)
 
