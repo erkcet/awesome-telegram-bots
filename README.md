@@ -182,6 +182,10 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [Webhook Inspector](https://webhook.site/) - Debug webhook payloads from Telegram.
 - [mitmproxy](https://mitmproxy.org/) - Inspect API calls between your bot and Telegram.
 
+## Crypto & DeFi Bots
+
+- [@NoxBaseBot](https://t.me/NoxBaseBot) - Free Base chain DeFi assistant with 50+ commands — live prices, gas tracker, whale alerts, portfolio simulator, RSI indicators, token analysis, and more. No wallet connection required.
+
 ## Tutorials & Guides
 
 - [From BotFather to Hello World (Python)](https://core.telegram.org/bots/tutorial) - Official beginner tutorial.
