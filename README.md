@@ -166,6 +166,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [@Shieldy](https://t.me/shaboroshka_bot) - CAPTCHAs for group entry (anti-spam).
 - [@ControllerBot](https://t.me/ControllerBot) - Schedule and manage channel posts.
 - [@Combot](https://t.me/comaboroshka_bot) - Group analytics and statistics.
+- [@Junction Bot](https://t.me/junction_bot) - AI digests from any Telegram channel or group, automatic message copying, etc 
 
 ## AI & LLM Bots
 
