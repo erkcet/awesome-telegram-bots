@@ -173,6 +173,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [claude-telegram-bot](https://github.com/KTrain5169/claude-telegram-bot) - Claude API integration for Telegram.
 - [Gemini Telegram Bot](https://github.com/nichuanfang/gemini-telegram-bot) - Google Gemini integration.
 - [LangChain Telegram Bot](https://github.com/langchain-ai/langchain) - Build conversational AI bots with LangChain.
+- [OpenPaw](https://github.com/daxaur/openpaw) - CLI tool with a built-in Telegram bridge for chatting with Claude from your phone. 38 skills including email, calendar, Spotify, smart home and more.
 
 ## Developer Tools
 
