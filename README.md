@@ -152,6 +152,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Download images from galleries and image hosting sites.
 - [Telegram Bot API Server](https://github.com/tdlib/telegram-bot-api) - Self-hosted Bot API server for 2 GB file uploads (vs 50 MB default).
 - [Stickerify](https://github.com/Stickerifier/Stickerify) - Telegram bot to convert media into the format required to be used as Telegram stickers.
+- [jellyfin-telegram-channel-sync](https://github.com/GeiserX/jellyfin-telegram-channel-sync) - Syncs Jellyfin user access with Telegram channel membership, automatically disabling accounts when members leave.
 
 ## Group Management
 
