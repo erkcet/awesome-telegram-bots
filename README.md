@@ -166,7 +166,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [@Shieldy](https://t.me/shaboroshka_bot) - CAPTCHAs for group entry (anti-spam).
 - [@ControllerBot](https://t.me/ControllerBot) - Schedule and manage channel posts.
 - [@Combot](https://t.me/comaboroshka_bot) - Group analytics and statistics.
-- [telegram-delay-channel-cloner](https://github.com/GeiserX/telegram-delay-channel-cloner) - Relays messages between Telegram channels with configurable delay and batch processing.
+- [Telegram Delay Channel Cloner](https://github.com/GeiserX/telegram-delay-channel-cloner) - Relays messages between Telegram channels with configurable delay and batch processing.
 
 ## AI & LLM Bots
 
