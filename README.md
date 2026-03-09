@@ -168,6 +168,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [@ControllerBot](https://t.me/ControllerBot) - Schedule and manage channel posts.
 - [@Combot](https://t.me/comaboroshka_bot) - Group analytics and statistics.
 - [Paperless Telegram Bot](https://github.com/GeiserX/paperless-telegram-bot) - Manage Paperless-NGX documents entirely through Telegram: upload, search, tag, and organize.
+- [@Junction Bot](https://t.me/junction_bot) - AI digests from any Telegram channel or group, automatic message copying, etc 
 
 ## AI & LLM Bots
 
