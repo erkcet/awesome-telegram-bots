@@ -169,7 +169,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [@Combot](https://t.me/comaboroshka_bot) - Group analytics and statistics.
 - [Telegram Delay Channel Cloner](https://github.com/GeiserX/telegram-delay-channel-cloner) - Relays messages between Telegram channels with configurable delay and batch processing.
 - [Paperless Telegram Bot](https://github.com/GeiserX/paperless-telegram-bot) - Manage Paperless-NGX documents entirely through Telegram: upload, search, tag, and organize.
-- [Moreform](https://t.me/moreformbot) - Create forms and surveys, share them with anyone, and collect responses — all inside Telegram.
+- [@moreformbot](https://t.me/moreformbot) - Create forms and surveys, share them with anyone, and collect responses — all inside Telegram.
 
 ## AI & LLM Bots
 
