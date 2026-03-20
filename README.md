@@ -178,6 +178,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [Gemini Telegram Bot](https://github.com/nichuanfang/gemini-telegram-bot) - Google Gemini integration.
 - [LangChain Telegram Bot](https://github.com/langchain-ai/langchain) - Build conversational AI bots with LangChain.
 - [AskePub](https://github.com/GeiserX/AskePub) - Telegram bot that uses GPT-4o to generate AI study notes from ePub books.
+- [Untether](https://github.com/littlebearapps/untether) - Self-hosted bot that bridges AI coding agents to Telegram with inline keyboards, voice transcription, progress streaming, and file transfer.
 
 ## Developer Tools
 
