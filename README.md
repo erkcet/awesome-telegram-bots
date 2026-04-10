@@ -186,6 +186,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [telegram-bot-api (local server)](https://github.com/tdlib/telegram-bot-api) - Run the Bot API server locally for development.
 - [Webhook Inspector](https://webhook.site/) - Debug webhook payloads from Telegram.
 - [mitmproxy](https://mitmproxy.org/) - Inspect API calls between your bot and Telegram.
+- [Teleping](https://github.com/yerdaulet-damir/teleping) - Production observability for Node.js: sends structured alerts to Telegram with batching, quiet hours, and components like progress bars and tables.
 
 ## Tutorials & Guides
 
