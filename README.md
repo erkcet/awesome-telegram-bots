@@ -173,11 +173,12 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 
 ## AI & LLM Bots
 
+- [AskePub](https://github.com/GeiserX/AskePub) - Telegram bot that uses GPT-4o to generate AI study notes from ePub books.
+- [Broletter](https://github.com/landigf/Broletter) - Daily personalized science briefing: reads arXiv every night, explains papers via Gemini, delivers a tap-to-expand preview card to Telegram. Open-source Python, supports Telegram Stars subscriptions.
 - [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - ChatGPT integration with streaming, voice messages, and group support.
 - [claude-telegram-bot](https://github.com/KTrain5169/claude-telegram-bot) - Claude API integration for Telegram.
 - [Gemini Telegram Bot](https://github.com/nichuanfang/gemini-telegram-bot) - Google Gemini integration.
 - [LangChain Telegram Bot](https://github.com/langchain-ai/langchain) - Build conversational AI bots with LangChain.
-- [AskePub](https://github.com/GeiserX/AskePub) - Telegram bot that uses GPT-4o to generate AI study notes from ePub books.
 
 ## Developer Tools
 
