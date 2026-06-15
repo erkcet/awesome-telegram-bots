@@ -111,6 +111,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [Serverless Telegram Bot (AWS)](https://github.com/franalgaba/serverless-telegram-bot) - Template for running bots on AWS Lambda.
 - [Vercel Telegram Bot](https://github.com/vercel-community/telegram-bot) - Deploy bots to Vercel as serverless functions.
 - [Cloudflare Workers Telegram Bot](https://github.com/cvzi/telegram-bot-cloudflare) - Run bots on Cloudflare Workers (free tier friendly).
+- [DeFiKit Bot Maker](https://defikit.net) - Open-source Telegram bot template for crypto token creation and management.
 
 ## Mini Apps (Web Apps)
 
