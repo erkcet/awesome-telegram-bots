@@ -170,6 +170,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [Telegram Delay Channel Cloner](https://github.com/GeiserX/telegram-delay-channel-cloner) - Relays messages between Telegram channels with configurable delay and batch processing.
 - [Paperless Telegram Bot](https://github.com/GeiserX/paperless-telegram-bot) - Manage Paperless-NGX documents entirely through Telegram: upload, search, tag, and organize.
 - [@moreformbot](https://t.me/moreformbot) - Create forms and surveys, share them with anyone, and collect responses — all inside Telegram.
+- [RugLens](https://github.com/mrvlyouknowwho/ruglens) - Paste any EVM token or TON jetton address and get a rug-pull/honeypot risk report ([@RugLens_bot](https://t.me/RugLens_bot)). Open source, built with grammY, works inline and in groups.
 
 ## AI & LLM Bots
 
