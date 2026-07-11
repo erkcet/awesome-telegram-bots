@@ -170,7 +170,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [Telegram Delay Channel Cloner](https://github.com/GeiserX/telegram-delay-channel-cloner) - Relays messages between Telegram channels with configurable delay and batch processing.
 - [Paperless Telegram Bot](https://github.com/GeiserX/paperless-telegram-bot) - Manage Paperless-NGX documents entirely through Telegram: upload, search, tag, and organize.
 - [@moreformbot](https://t.me/moreformbot) - Create forms and surveys, share them with anyone, and collect responses — all inside Telegram.
-- [Weight Goal Bot](https://github.com/IgorShadurin/weight-telegram-bot) - Tracks photo-backed weekly weight goals in RU/EN groups with charts and achievements.
+- [Weight Goal Bot](https://t.me/my_weight_goal_bot) - Tracks photo-backed weekly weight goals in English, Russian, and Chinese groups with charts and achievements. [Source](https://github.com/IgorShadurin/weight-telegram-bot).
 
 ## AI & LLM Bots
 
