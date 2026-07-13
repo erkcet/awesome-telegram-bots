@@ -145,6 +145,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [Telegram Stars](https://core.telegram.org/bots/payments-stars) - Telegram's digital currency for in-bot purchases.
 - [Stripe Provider](https://core.telegram.org/bots/payments#supported-payment-providers) - Accept credit card payments via Stripe.
 - [TON Connect](https://docs.ton.org/develop/dapps/ton-connect/overview) - Connect TON wallets to your bot for crypto payments.
+- [MyStars FaaS](https://mystars.tg/docs) - Buy Telegram Stars & Premium for any @username via API, paid in GRAM or USDT on TON.
 
 ## Media & File Bots
 
