@@ -86,6 +86,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library with Spring Boot integration.
 - [kotlin-telegram-bot](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) - Kotlin DSL for building bots.
 - [tgbotapi](https://github.com/InsanusMokrassar/ktgbotapi) - Multiplatform Kotlin library with coroutine support.
+- [Nyagram](https://github.com/kaleert/nyagram) - Reactive, type-safe framework for Telegram bots based on Spring Boot 3 and Java 21.
 
 ### C# / .NET
 
