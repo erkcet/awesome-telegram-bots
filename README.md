@@ -121,7 +121,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 
 ## Bot Hosting & Deployment
 
-- [Railway](https://railway.app/) - Simple deployment from GitHub. Free tier with 500 hours/month.
+- [Railway](https://railway.app/) - Simple deployment from GitHub. 30-day free trial with $5 credits, then $1 per month.
 - [Fly.io](https://fly.io/) - Deploy bots globally with persistent volumes. Free tier available.
 - [Render](https://render.com/) - Auto-deploy from Git. Background workers for long-polling bots.
 - [Deta Space](https://deta.space/) - Free cloud hosting, good for small bots.
@@ -145,6 +145,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [Telegram Stars](https://core.telegram.org/bots/payments-stars) - Telegram's digital currency for in-bot purchases.
 - [Stripe Provider](https://core.telegram.org/bots/payments#supported-payment-providers) - Accept credit card payments via Stripe.
 - [TON Connect](https://docs.ton.org/develop/dapps/ton-connect/overview) - Connect TON wallets to your bot for crypto payments.
+- [MyStars FaaS](https://mystars.tg/docs) - Buy Telegram Stars & Premium for any @username via API, paid in GRAM or USDT on TON.
 
 ## Media & File Bots
 
@@ -160,6 +161,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [Combot](https://combot.org/) - Analytics and moderation for Telegram groups.
 - [Group Butler](https://github.com/group-butler/GroupButler) - Open source Lua-based group management bot.
 - [Shield Bot](https://t.me/ShieldBOTt) - Anti-spam and verification for groups.
+- [OmniGest](https://t.me/OmniGest_bot) - Free all-in-one group management bot with anti-spam, captcha, AI moderation, and custom commands.
 
 ## Utility Bots
 
@@ -167,8 +169,14 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [@Shieldy](https://t.me/shaboroshka_bot) - CAPTCHAs for group entry (anti-spam).
 - [@ControllerBot](https://t.me/ControllerBot) - Schedule and manage channel posts.
 - [@Combot](https://t.me/comaboroshka_bot) - Group analytics and statistics.
+- [Telegram Delay Channel Cloner](https://github.com/GeiserX/telegram-delay-channel-cloner) - Relays messages between Telegram channels with configurable delay and batch processing.
 - [Paperless Telegram Bot](https://github.com/GeiserX/paperless-telegram-bot) - Manage Paperless-NGX documents entirely through Telegram: upload, search, tag, and organize.
-- [@Junction Bot](https://t.me/junction_bot) - AI digests from any Telegram channel or group, automatic message copying, etc 
+- [@moreformbot](https://t.me/moreformbot) - Create forms and surveys, share them with anyone, and collect responses — all inside Telegram.
+- [@RemoteJobRadarBot](https://t.me/RemoteJobRadarBot) - Search fresh remote jobs and get keyword alerts, aggregated from Remotive, Remote OK and Arbeitnow.
+- [TG Sender](https://github.com/MrStricxn/tgsender) - CLI that sends a different post per Telegram group via MTProto (Telethon), with per-group cooldowns and premium emoji.
+- [@ozvuchka_free_bot](https://t.me/ozvuchka_free_bot) - Free Russian text-to-speech: turns text into a voice message with lifelike AI voices, no limits, no ads.
+- [Weight Goal Bot](https://t.me/my_weight_goal_bot) - Tracks photo-backed weight goals with weekly checkpoints, charts, reminders, and achievements. [Apache-2.0 source](https://github.com/IgorShadurin/weight-telegram-bot).
+- [@Junction Bot](https://t.me/junction_bot) - Automates your Telegram routine. Helps broadcasting messages to your network of channels, aggregates messages from other channels, composes AI digests, copies old messages.
 
 ## AI & LLM Bots
 
