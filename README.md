@@ -2,7 +2,7 @@
 
 > A curated list of Telegram Bot resources — libraries, frameworks, tools, examples, and community bots.
 
-The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, payments, inline mode, web login widgets, and more. The previous community lists haven't been maintained since 2020. This is the updated, actively maintained replacement.
+The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, payments, inline mode, web login widgets, and more. The previous community lists haven't been maintained since 2020. This is the updated, actively maintained replacement.
 
 **Contributions welcome!** Read the [contribution guidelines](CONTRIBUTING.md) before submitting a PR.
 
@@ -33,6 +33,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [Developer Tools](#developer-tools)
 - [Tutorials & Guides](#tutorials--guides)
 - [Community](#community)
+- [Maintainer](#maintainer)
 
 ---
 
@@ -41,8 +42,6 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [Telegram Bot API Documentation](https://core.telegram.org/bots/api) - Official API reference (always up to date).
 - [Telegram Bot FAQ](https://core.telegram.org/bots/faq) - Official frequently asked questions.
 - [Bot API Changelog](https://core.telegram.org/bots/api-changelog) - All API updates and new features.
-- [Telegram Mini Apps Docs](https://core.telegram.org/bots/webapps) - Official Web App / Mini App documentation.
-- [Telegram Bot Payments](https://core.telegram.org/bots/payments) - Payment integration guide.
 - [@BotFather](https://t.me/botfather) - The official bot for creating and managing bots.
 - [@BotSupport](https://t.me/botsupport) - Official Telegram bot support channel.
 - [tdlib](https://github.com/tdlib/td) - Official cross-platform Telegram client library by Telegram.
@@ -54,7 +53,6 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - Feature-rich, async-first wrapper with conversation handlers and job queue. Most popular Python library.
 - [aiogram](https://github.com/aiogram/aiogram) - Modern async framework built on aiohttp. Fast, middleware-based, great for large bots.
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Full MTProto client (not just Bot API). Access user-level features.
-- [Pyrogram](https://github.com/pyrogram/pyrogram) - MTProto client and Bot API wrapper. Elegant API, async support.
 - [telebot (pyTelegramBotAPI)](https://github.com/eternnoir/pyTelegramBotAPI) - Simple, synchronous library. Good for small bots and beginners.
 
 ### JavaScript / TypeScript
@@ -109,23 +107,18 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 ## Frameworks & Boilerplates
 
 - [grammY Runner](https://github.com/grammyjs/runner) - Scale grammY bots with concurrent update processing.
-- [Serverless Telegram Bot (AWS)](https://github.com/franalgaba/serverless-telegram-bot) - Template for running bots on AWS Lambda.
-- [Vercel Telegram Bot](https://github.com/vercel-community/telegram-bot) - Deploy bots to Vercel as serverless functions.
 - [Cloudflare Workers Telegram Bot](https://github.com/cvzi/telegram-bot-cloudflare) - Run bots on Cloudflare Workers (free tier friendly).
 
 ## Mini Apps (Web Apps)
 
 - [Telegram Mini Apps Documentation](https://core.telegram.org/bots/webapps) - Official docs for building Mini Apps.
 - [Mini Apps SDK](https://github.com/Telegram-Mini-Apps/telegram-apps) - Official SDK and utilities for Telegram Mini Apps.
-- [twa-dev/sdk](https://github.com/AweAwe17/twa-dev-sdk) - Community React hooks and utilities for TWA development.
-- [Mini App React Template](https://github.com/nicegram/nicegram-mini-app-template) - React + TypeScript starter for Mini Apps.
 
 ## Bot Hosting & Deployment
 
-- [Railway](https://railway.app/) - Simple deployment from GitHub. 30-day free trial with $5 credits, then $1 per month.
-- [Fly.io](https://fly.io/) - Deploy bots globally with persistent volumes. Free tier available.
+- [Railway](https://railway.app/) - Deploy from GitHub with a 30-day $5 trial and a $1 monthly entry plan.
+- [Fly.io](https://fly.io/) - Deploy bots globally with persistent volumes and usage-based pricing.
 - [Render](https://render.com/) - Auto-deploy from Git. Background workers for long-polling bots.
-- [Deta Space](https://deta.space/) - Free cloud hosting, good for small bots.
 - [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) - Always-free ARM instances (4 OCPU, 24 GB RAM) — great for bots.
 - [PythonAnywhere](https://www.pythonanywhere.com/) - Free tier for Python bots (webhook mode only).
 - [Self-hosted with PM2](https://pm2.keymetrics.io/) - Process manager for Node.js bots on your own server.
@@ -152,7 +145,6 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Download engine for 1000+ sites. The backbone of most media download bots.
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Download images from galleries and image hosting sites.
-- [Telegram Bot API Server](https://github.com/tdlib/telegram-bot-api) - Self-hosted Bot API server for 2 GB file uploads (vs 50 MB default).
 - [Stickerify](https://github.com/Stickerifier/Stickerify) - Telegram bot to convert media into the format required to be used as Telegram stickers.
 - [Jellyfin Telegram Channel Sync](https://github.com/GeiserX/jellyfin-telegram-channel-sync) - Syncs Jellyfin user access with Telegram channel membership, automatically disabling accounts when members leave.
 - [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) - Self-hosted Telegram media downloader with video, original file, and MP3 delivery, plus Docker deployment and rollback.
@@ -163,36 +155,32 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [Rose Bot](https://t.me/MissRose_bot) - Popular group management bot with moderation, filters, and notes.
 - [Combot](https://combot.org/) - Analytics and moderation for Telegram groups.
 - [Group Butler](https://github.com/group-butler/GroupButler) - Open source Lua-based group management bot.
-- [Shield Bot](https://t.me/ShieldBOTt) - Anti-spam and verification for groups.
 - [OmniGest](https://t.me/OmniGest_bot) - Free all-in-one group management bot with anti-spam, captcha, AI moderation, and custom commands.
 
 ## Utility Bots
 
 - [@RateStickerBot](https://t.me/RateStickerBot) - Rate and discover stickers.
-- [@Shieldy](https://t.me/shaboroshka_bot) - CAPTCHAs for group entry (anti-spam).
+- [@Shieldy](https://t.me/shieldy_bot) - CAPTCHAs for group entry (anti-spam).
 - [@ControllerBot](https://t.me/ControllerBot) - Schedule and manage channel posts.
-- [@Combot](https://t.me/comaboroshka_bot) - Group analytics and statistics.
+- [@Combot](https://t.me/combot) - Group analytics and statistics.
 - [Telegram Delay Channel Cloner](https://github.com/GeiserX/telegram-delay-channel-cloner) - Relays messages between Telegram channels with configurable delay and batch processing.
 - [Paperless Telegram Bot](https://github.com/GeiserX/paperless-telegram-bot) - Manage Paperless-NGX documents entirely through Telegram: upload, search, tag, and organize.
 - [@moreformbot](https://t.me/moreformbot) - Create forms and surveys, share them with anyone, and collect responses — all inside Telegram.
 - [@RemoteJobRadarBot](https://t.me/RemoteJobRadarBot) - Search fresh remote jobs and get keyword alerts, aggregated from Remotive, Remote OK and Arbeitnow.
 - [TG Sender](https://github.com/MrStricxn/tgsender) - CLI that sends a different post per Telegram group via MTProto (Telethon), with per-group cooldowns and premium emoji.
 - [@ozvuchka_free_bot](https://t.me/ozvuchka_free_bot) - Free Russian text-to-speech: turns text into a voice message with lifelike AI voices, no limits, no ads.
-- [Weight Goal Bot](https://t.me/my_weight_goal_bot) - Tracks photo-backed weight goals with weekly checkpoints, charts, reminders, and achievements. [Apache-2.0 source](https://github.com/IgorShadurin/weight-telegram-bot).
+- [Weight Goal Bot](https://github.com/IgorShadurin/weight-telegram-bot) - Open-source bot for photo-backed weight goals, reminders, and progress charts.
 - [@Junction Bot](https://t.me/junction_bot) - Automates channel broadcasts, content aggregation, AI digests, and message copying.
 
 ## AI & LLM Bots
 
 - [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - ChatGPT integration with streaming, voice messages, and group support.
-- [claude-telegram-bot](https://github.com/KTrain5169/claude-telegram-bot) - Claude API integration for Telegram.
-- [Gemini Telegram Bot](https://github.com/nichuanfang/gemini-telegram-bot) - Google Gemini integration.
 - [LangChain Telegram Bot](https://github.com/langchain-ai/langchain) - Build conversational AI bots with LangChain.
 - [AskePub](https://github.com/GeiserX/AskePub) - Telegram bot that uses GPT-4o to generate AI study notes from ePub books.
 - [Untether](https://github.com/littlebearapps/untether) - Self-hosted Telegram bridge for running AI coding agents remotely.
 
 ## Developer Tools
 
-- [Telegram Bot API Tester](https://t.me/botfather) - Test API calls directly via BotFather.
 - [Postman Telegram Collection](https://www.postman.com/telegr/telegram-bot-api/) - Pre-built API collection for Postman.
 - [telegram-bot-api (local server)](https://github.com/tdlib/telegram-bot-api) - Run the Bot API server locally for development.
 - [Webhook Inspector](https://webhook.site/) - Debug webhook payloads from Telegram.
@@ -203,7 +191,6 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [From BotFather to Hello World (Python)](https://core.telegram.org/bots/tutorial) - Official beginner tutorial.
 - [grammY Guide](https://grammy.dev/guide/) - Comprehensive guide for building bots with grammY (TypeScript/JS).
 - [aiogram 3.x Documentation](https://docs.aiogram.dev/en/latest/) - Full docs for the aiogram Python framework.
-- [Building Telegram Mini Apps](https://core.telegram.org/bots/webapps) - Official Mini Apps development guide.
 - [Webhook vs Long Polling](https://core.telegram.org/bots/webhooks) - Official comparison and setup guide.
 - [Deploy Telegram Bot to AWS Lambda](https://aws.amazon.com/blogs/compute/) - Serverless deployment walkthrough.
 
@@ -212,24 +199,14 @@ The Telegram Bot ecosystem has evolved massively — Bot API 8.0+, Mini Apps, pa
 - [@BotTalk](https://t.me/bottalk) - English-speaking bot developer community.
 - [Telegram Bot Developers (Reddit)](https://www.reddit.com/r/TelegramBots/) - Reddit community for bot developers.
 - [grammY Chat](https://t.me/grammyjs) - grammY framework community.
-- [python-telegram-bot Chat](https://t.me/pythontelegrambotgroup) - python-telegram-bot community group.
-- [aiogram Chat](https://t.me/aiogram) - aiogram framework community.
-- [Telegraf Chat](https://t.me/telegrafjs) - Telegraf.js community.
+- [python-telegram-bot Chat](https://t.me/pythontelegrambotgroup) - Community group for python-telegram-bot users.
+- [aiogram Chat](https://t.me/aiogram) - International community for aiogram users.
+- [Telegraf Discussions](https://github.com/telegraf/telegraf/discussions) - Community forum for Telegraf users.
 
 ---
-
-## Contributing
-
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Maintainer
 
 **Erkan**
 
 - GitHub: [@erkcet](https://github.com/erkcet)
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the maintainer has waived all copyright and related rights to this work.

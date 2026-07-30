@@ -1,0 +1,45 @@
+name: Broken or outdated entry
+description: Report a broken link, abandoned project, or inaccurate description.
+title: "Maintenance: "
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping keep the list accurate.
+
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      description: Provide the resource name and current URL.
+      placeholder: Resource name — https://example.com
+    validations:
+      required: true
+
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem
+      options:
+        - Broken or redirected link
+        - Abandoned or archived project
+        - Inaccurate description
+        - Duplicate entry
+        - Other maintenance issue
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Explain what you verified and include a replacement link when available.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Verification
+      options:
+        - label: I searched the current list and existing issues before reporting this.
+          required: true

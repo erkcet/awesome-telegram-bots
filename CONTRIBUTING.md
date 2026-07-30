@@ -15,7 +15,7 @@ Thanks for your interest in contributing! This list is community-driven, and eve
 
 - Libraries, SDKs, and frameworks for building Telegram bots.
 - Open source bots that are well-maintained and useful.
-- Tutorials and guides that are up to date (Bot API 7.0+).
+- Tutorials and guides that are current with the latest Telegram Bot API.
 - Tools for bot development, testing, and deployment.
 - Mini App resources, templates, and examples.
 
@@ -24,9 +24,11 @@ Thanks for your interest in contributing! This list is community-driven, and eve
 - **No duplicates.** Search existing entries before submitting.
 - **Working links.** All URLs must be live and accessible.
 - **Maintained projects.** Libraries should have commits within the last 12 months, unless they are feature-complete and stable.
+- **Verifiable ownership and licensing.** Open-source entries should link to a repository with a detected license.
 - **Descriptions matter.** Every entry needs a concise, helpful description.
 - **English only.** All entries and descriptions should be in English.
-- **No spam.** Your project is welcome if it's genuinely useful, but don't submit low-effort repos just for visibility.
+- **Disclose affiliation.** State clearly when you maintain, own, or commercially benefit from the submitted resource.
+- **No spam.** Projects are welcome when they are genuinely useful, but repeated or low-effort promotion will be closed.
 
 ### Formatting
 

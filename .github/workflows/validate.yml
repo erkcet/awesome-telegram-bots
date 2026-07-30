@@ -1,0 +1,36 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  awesome-list:
+    name: Awesome list
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Pin third-party actions to immutable commits for reproducible validation.
+      - name: Check out repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+
+      - name: Validate Awesome list conventions
+        run: npx --yes awesome-lint@2.3.0 README.md
+
+      - name: Check Markdown links
+        run: |
+          npx --yes markdown-link-check@3.15.0 README.md --config .markdown-link-check.json --quiet
+          npx --yes markdown-link-check@3.15.0 CONTRIBUTING.md --config .markdown-link-check.json --quiet
