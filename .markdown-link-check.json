@@ -2,5 +2,10 @@
   "timeout": "20s",
   "retryOn429": true,
   "retryCount": 3,
-  "fallbackRetryDelay": "30s"
+  "fallbackRetryDelay": "30s",
+  "ignorePatterns": [
+    {
+      "pattern": "^https://www\\.reddit\\.com/r/TelegramBots/?$"
+    }
+  ]
 }
