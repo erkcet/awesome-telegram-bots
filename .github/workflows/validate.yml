@@ -27,7 +27,19 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
 
-      - name: Validate Awesome list conventions
+      # GitHub only detects a newly added license after it reaches the default
+      # branch. Pull requests therefore run every structural rule but defer the
+      # repository-metadata rule until the post-merge and scheduled checks.
+      - name: Install Awesome list validator
+        if: github.event_name == 'pull_request'
+        run: npm install --no-save --ignore-scripts awesome-lint@2.3.0
+
+      - name: Validate Awesome list structure
+        if: github.event_name == 'pull_request'
+        run: node .github/scripts/lint-awesome-list.mjs
+
+      - name: Validate Awesome list conventions and repository metadata
+        if: github.event_name != 'pull_request'
         run: npx --yes awesome-lint@2.3.0 README.md
 
       - name: Check Markdown links
