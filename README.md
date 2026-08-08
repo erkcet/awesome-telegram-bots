@@ -195,6 +195,8 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [Webhook vs Long Polling](https://core.telegram.org/bots/webhooks) - Official comparison and setup guide.
 - [Deploy Telegram Bot to AWS Lambda](https://aws.amazon.com/blogs/compute/) - Serverless deployment walkthrough.
 
+- [Telegram ID & Chat ID Guides](https://am10code.github.io/get-telegram-id/) - Practical guides for finding user, chat, group, and channel IDs.
+
 ## Community
 
 - [@BotTalk](https://t.me/bottalk) - English-speaking bot developer community.
