@@ -108,6 +108,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 
 - [grammY Runner](https://github.com/grammyjs/runner) - Scale grammY bots with concurrent update processing.
 - [Cloudflare Workers Telegram Bot](https://github.com/cvzi/telegram-bot-cloudflare) - Run bots on Cloudflare Workers (free tier friendly).
+- [Cloudflare Telegram Feedback Bot Template](https://github.com/ruguevara/tg-feedback-bot) - Python bot template for Cloudflare Workers (run for free).
 
 ## Mini Apps (Web Apps)
 
