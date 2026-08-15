@@ -123,6 +123,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [PythonAnywhere](https://www.pythonanywhere.com/) - Free tier for Python bots (webhook mode only).
 - [Self-hosted with PM2](https://pm2.keymetrics.io/) - Process manager for Node.js bots on your own server.
 - [Self-hosted with systemd](https://www.freedesktop.org/software/systemd/man/systemd.service.html) - Run bots as Linux services.
+- [n8n JSON Feed to Telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - Free n8n workflow that polls a JSON/RSS feed and alerts on Telegram only for new entries passing a filter, no external database
 
 ## Inline Bots
 
