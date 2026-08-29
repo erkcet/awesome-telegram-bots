@@ -172,6 +172,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [@ozvuchka_free_bot](https://t.me/ozvuchka_free_bot) - Free Russian text-to-speech: turns text into a voice message with lifelike AI voices, no limits, no ads.
 - [Weight Goal Bot](https://github.com/IgorShadurin/weight-telegram-bot) - Open-source bot for photo-backed weight goals, reminders, and progress charts.
 - [@Junction Bot](https://t.me/junction_bot) - Automates channel broadcasts, content aggregation, AI digests, and message copying.
+- [@QuickRadarBot](https://t.me/QuickRadarBot) - No-code crypto alerts and cross-exchange arbitrage monitoring via a Telegram Mini App builder — price, funding, open interest, and executable spread across 14 exchanges.
 
 ## AI & LLM Bots
 
