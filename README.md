@@ -54,6 +54,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [aiogram](https://github.com/aiogram/aiogram) - Modern async framework built on aiohttp. Fast, middleware-based, great for large bots.
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Full MTProto client (not just Bot API). Access user-level features.
 - [telebot (pyTelegramBotAPI)](https://github.com/eternnoir/pyTelegramBotAPI) - Simple, synchronous library. Good for small bots and beginners.
+- [GoyGram](https://github.com/GoyGram/GoyGram) - Unified Bot API + MTProto framework with a Rust crypto/codec core, dynamic dispatch, and an encrypted session vault.
 
 ### JavaScript / TypeScript
 
