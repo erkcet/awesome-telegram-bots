@@ -54,6 +54,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [aiogram](https://github.com/aiogram/aiogram) - Modern async framework built on aiohttp. Fast, middleware-based, great for large bots.
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Full MTProto client (not just Bot API). Access user-level features.
 - [telebot (pyTelegramBotAPI)](https://github.com/eternnoir/pyTelegramBotAPI) - Simple, synchronous library. Good for small bots and beginners.
+- [flowcastle](https://github.com/FlowCastle/flowcastle-sdk) - MIT middleware for aiogram and python-telegram-bot that adds a contact CRM, live chat, broadcasts and conversion analytics (hosted dashboard, free tier).
 
 ### JavaScript / TypeScript
 
@@ -61,6 +62,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [Telegraf](https://github.com/telegraf/telegraf) - Popular Node.js framework with middleware architecture.
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Lightweight, promise-based. Good for simple bots.
 - [puregram](https://github.com/nitreojs/puregram) - TypeScript library with powerful context and plugin system.
+- [@flowcastle/grammy](https://github.com/FlowCastle/flowcastle-sdk) - MIT middleware for grammY and Telegraf that adds a contact CRM, live chat, broadcasts and conversion analytics (hosted dashboard, free tier).
 
 ### Go
 
