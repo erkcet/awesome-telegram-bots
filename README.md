@@ -172,6 +172,11 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [@ozvuchka_free_bot](https://t.me/ozvuchka_free_bot) - Free Russian text-to-speech: turns text into a voice message with lifelike AI voices, no limits, no ads.
 - [Weight Goal Bot](https://github.com/IgorShadurin/weight-telegram-bot) - Open-source bot for photo-backed weight goals, reminders, and progress charts.
 - [@Junction Bot](https://t.me/junction_bot) - Automates channel broadcasts, content aggregation, AI digests, and message copying.
+- [@WhisperLockBot](https://t.me/WhisperLockBot) - Sends a locked message only the recipient can open, inline. Free tier, 150 Stars Pro one-time; Mini App included.
+- [@NudgeRemindBot](https://t.me/NudgeRemindBot) - Sets reminders with six time input formats. Free tier, 150 Stars Pro one-time; Mini App included.
+- [@AnonInboxProBot](https://t.me/AnonInboxProBot) - Anonymous inbox collecting messages via a personal link. Free tier, 150 Stars Pro one-time; Mini App included.
+- [@SplitTabsBot](https://t.me/SplitTabsBot) - Splits group bills and tracks who owes what. Free tier, 150 Stars Pro one-time; Mini App included.
+- [@HabitStreakProBot](https://t.me/HabitStreakProBot) - Tracks daily habit check-ins and streaks. Free tier, 150 Stars Pro one-time; Mini App included.
 
 ## AI & LLM Bots
 
