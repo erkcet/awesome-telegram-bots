@@ -179,6 +179,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [LangChain Telegram Bot](https://github.com/langchain-ai/langchain) - Build conversational AI bots with LangChain.
 - [AskePub](https://github.com/GeiserX/AskePub) - Telegram bot that uses GPT-4o to generate AI study notes from ePub books.
 - [Untether](https://github.com/littlebearapps/untether) - Self-hosted Telegram bridge for running AI coding agents remotely.
+- [Yasna](https://t.me/yasna_ai_bot) - AI assistant for Telegram with memory, reminders, and voice or text conversations.
 
 ## Developer Tools
 
