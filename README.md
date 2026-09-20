@@ -113,6 +113,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 
 - [Telegram Mini Apps Documentation](https://core.telegram.org/bots/webapps) - Official docs for building Mini Apps.
 - [Mini Apps SDK](https://github.com/Telegram-Mini-Apps/telegram-apps) - Official SDK and utilities for Telegram Mini Apps.
+- [DAO Generator](https://t.me/Dao_gen_bot) - Create on-chain DAOs on TON from Telegram: votes, shared treasury, Mini App.
 
 ## Bot Hosting & Deployment
 
