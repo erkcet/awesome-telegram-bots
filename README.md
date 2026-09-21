@@ -147,6 +147,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Download engine for 1000+ sites. The backbone of most media download bots.
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Download images from galleries and image hosting sites.
 - [Stickerify](https://github.com/Stickerifier/Stickerify) - Telegram bot to convert media into the format required to be used as Telegram stickers.
+- [Cyber Collector](https://t.me/cybercollectorbot) - Download videos from TikTok (no watermark), Instagram Reels & Stories, YouTube Shorts, X/Twitter and Facebook directly in Telegram.
 - [Jellyfin Telegram Channel Sync](https://github.com/GeiserX/jellyfin-telegram-channel-sync) - Syncs Jellyfin user access with Telegram channel membership, automatically disabling accounts when members leave.
 - [VideoDownloaderBot](https://github.com/Avazbek22/VideoDownloaderBot) - Self-hosted Telegram media downloader with video, original file, and MP3 delivery, plus Docker deployment and rollback.
 - [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) - Self-hosted Telegram group bot that turns shared video links into native posts with media reuse and automatic updates.
