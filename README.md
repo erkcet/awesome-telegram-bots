@@ -188,6 +188,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [telegram-bot-api (local server)](https://github.com/tdlib/telegram-bot-api) - Run the Bot API server locally for development.
 - [Webhook Inspector](https://webhook.site/) - Debug webhook payloads from Telegram.
 - [mitmproxy](https://mitmproxy.org/) - Inspect API calls between your bot and Telegram.
+- [tlgr](https://github.com/tlgrcli/tlgr) - Command-line client for Telegram user and bot accounts, with JSON output and webhook event push.
 
 ## Tutorials & Guides
 
