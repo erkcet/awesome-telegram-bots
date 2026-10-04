@@ -113,6 +113,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 
 - [Telegram Mini Apps Documentation](https://core.telegram.org/bots/webapps) - Official docs for building Mini Apps.
 - [Mini Apps SDK](https://github.com/Telegram-Mini-Apps/telegram-apps) - Official SDK and utilities for Telegram Mini Apps.
+- [Tiny Telegram Tools](https://tg.zovo.one/) - Directory of 22 free Telegram mini apps & bots: reminders, expense splitting, secret messages, trivia, standups and more.
 
 ## Bot Hosting & Deployment
 
