@@ -142,6 +142,11 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [MyStars FaaS](https://mystars.tg/docs) - Buy Telegram Stars & Premium for any @username via API, paid in GRAM or USDT on TON.
 - [Gategram](https://gategram.app) - Open-source Telegram Mini App for selling digital content with Stars payments and instant delivery.
 
+## Crypto & Finance
+
+- [@TickMyPriceBot](https://t.me/TickMyPriceBot?start=awesome-telegram-bots) - Crypto price alerts: set price targets for any coin and get pinged when they hit. Free tier; one-time 150 Stars upgrade unlocks Pro.
+- [@MyHoldFolioBot](https://t.me/MyHoldFolioBot?start=awesome-telegram-bots) - Track your crypto portfolio in Telegram: holdings, prices and P/L in one place. Free tier; one-time 150 Stars upgrade unlocks Pro.
+
 ## Media & File Bots
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Download engine for 1000+ sites. The backbone of most media download bots.
@@ -174,6 +179,13 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [@ozvuchka_free_bot](https://t.me/ozvuchka_free_bot) - Free Russian text-to-speech: turns text into a voice message with lifelike AI voices, no limits, no ads.
 - [Weight Goal Bot](https://github.com/IgorShadurin/weight-telegram-bot) - Open-source bot for photo-backed weight goals, reminders, and progress charts.
 - [@Junction Bot](https://t.me/junction_bot) - Automates channel broadcasts, content aggregation, AI digests, and message copying.
+
+## Games & Fun
+
+- [@SantaDrawProBot](https://t.me/SantaDrawProBot?start=awesome-telegram-bots) - Secret Santa draw for group chats: collects participants, assigns pairs in DMs. Free tier; one-time 150 Stars upgrade unlocks Pro.
+- [@PartyPackProBot](https://t.me/PartyPackProBot?start=awesome-telegram-bots) - Party games for group chats (truth or dare, would-you-rather and more). Free tier; one-time 150 Stars upgrade unlocks Pro.
+- [@IcebreakerDailyBot](https://t.me/IcebreakerDailyBot?start=awesome-telegram-bots) - A fresh icebreaker question every day to keep group chats talking. Free tier; one-time 150 Stars upgrade unlocks Pro.
+- [@TriviaDailyProBot](https://t.me/TriviaDailyProBot?start=awesome-telegram-bots) - Daily trivia quizzes for groups with leaderboards. Free tier; one-time 150 Stars upgrade unlocks Pro.
 
 ## AI & LLM Bots
 
