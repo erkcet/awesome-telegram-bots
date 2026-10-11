@@ -175,6 +175,8 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [Weight Goal Bot](https://github.com/IgorShadurin/weight-telegram-bot) - Open-source bot for photo-backed weight goals, reminders, and progress charts.
 - [@Junction Bot](https://t.me/junction_bot) - Automates channel broadcasts, content aggregation, AI digests, and message copying.
 
+- [TON Watch](https://t.me/tonwatch_radar_bot?startapp=m_partner) - Explore TON NFT collections, balances, and transfer history by public address without connecting a wallet.
+
 ## AI & LLM Bots
 
 - [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - ChatGPT integration with streaming, voice messages, and group support.
