@@ -160,6 +160,8 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [Group Butler](https://github.com/group-butler/GroupButler) - Open source Lua-based group management bot.
 - [OmniGest](https://t.me/OmniGest_bot) - Free all-in-one group management bot with anti-spam, captcha, AI moderation, and custom commands.
 
+- [History Bot](https://github.com/thesunwave/telegram_history_bot) - MIT-licensed Telegram group activity statistics and self-deployment on Cloudflare.
+
 ## Utility Bots
 
 - [@RateStickerBot](https://t.me/RateStickerBot) - Rate and discover stickers.
