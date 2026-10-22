@@ -163,6 +163,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 ## Utility Bots
 
 - [@RateStickerBot](https://t.me/RateStickerBot) - Rate and discover stickers.
+- [Aura](https://t.me/you_aura_bot) - Random 1-on-1 video chat with people worldwide, with language filters and mini-games, free inside Telegram.
 - [@Shieldy](https://t.me/shieldy_bot) - CAPTCHAs for group entry (anti-spam).
 - [@ControllerBot](https://t.me/ControllerBot) - Schedule and manage channel posts.
 - [@Combot](https://t.me/combot) - Group analytics and statistics.
