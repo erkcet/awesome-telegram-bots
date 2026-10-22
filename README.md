@@ -113,6 +113,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 
 - [Telegram Mini Apps Documentation](https://core.telegram.org/bots/webapps) - Official docs for building Mini Apps.
 - [Mini Apps SDK](https://github.com/Telegram-Mini-Apps/telegram-apps) - Official SDK and utilities for Telegram Mini Apps.
+- [Adsun SDK examples](https://github.com/Adsuner/adsun-telegram-sdk) - Add rewarded, interstitial and task ads to a Mini App with [Adsun](https://adsun.io) (HTML, React, Vue, Unity, reward callback).
 
 ## Bot Hosting & Deployment
 
