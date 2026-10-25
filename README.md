@@ -155,6 +155,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 
 ## Group Management
 
+- [GroupGate](https://t.me/GroupGateProBot?start=awesome) - Runs a human check for new members before they post. Free tier.
 - [Rose Bot](https://t.me/MissRose_bot) - Popular group management bot with moderation, filters, and notes.
 - [Combot](https://combot.org/) - Analytics and moderation for Telegram groups.
 - [Group Butler](https://github.com/group-butler/GroupButler) - Open source Lua-based group management bot.
