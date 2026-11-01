@@ -141,6 +141,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [TON Connect](https://docs.ton.org/develop/dapps/ton-connect/overview) - Connect TON wallets to your bot for crypto payments.
 - [MyStars FaaS](https://mystars.tg/docs) - Buy Telegram Stars & Premium for any @username via API, paid in GRAM or USDT on TON.
 - [Gategram](https://gategram.app) - Open-source Telegram Mini App for selling digital content with Stars payments and instant delivery.
+- [@EezyTronBot](https://t.me/EezyTronBot) - Rent TRON energy inside Telegram to send USDT (TRC-20) for 70–80% less than burning TRX, from a prepaid TRX balance.
 
 ## Media & File Bots
 
