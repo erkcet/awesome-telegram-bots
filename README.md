@@ -174,6 +174,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [@ozvuchka_free_bot](https://t.me/ozvuchka_free_bot) - Free Russian text-to-speech: turns text into a voice message with lifelike AI voices, no limits, no ads.
 - [Weight Goal Bot](https://github.com/IgorShadurin/weight-telegram-bot) - Open-source bot for photo-backed weight goals, reminders, and progress charts.
 - [@Junction Bot](https://t.me/junction_bot) - Automates channel broadcasts, content aggregation, AI digests, and message copying.
+- [@onebuck_vpn_bot](https://t.me/onebuck_vpn_bot?start=cat_gh_erkcet) - One Buck VPN: buy and manage a VPN inside Telegram, from $2/month. VLESS/Reality on a Swedish server, works on mobile networks; Happ or own Android/Windows apps; 1-day free trial; pay by card, crypto or Telegram Stars.
 
 ## AI & LLM Bots
 
