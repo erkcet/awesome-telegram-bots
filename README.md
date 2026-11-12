@@ -196,6 +196,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [aiogram 3.x Documentation](https://docs.aiogram.dev/en/latest/) - Full docs for the aiogram Python framework.
 - [Webhook vs Long Polling](https://core.telegram.org/bots/webhooks) - Official comparison and setup guide.
 - [Deploy Telegram Bot to AWS Lambda](https://aws.amazon.com/blogs/compute/) - Serverless deployment walkthrough.
+- [AntMill Safety Guides](https://github.com/xammerbtc/antmill-safety) - Practical anti-scam and Telegram Mini App security notes for everyday users and builders.
 
 ## Community
 
