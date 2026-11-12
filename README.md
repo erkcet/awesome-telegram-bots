@@ -108,6 +108,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 
 - [grammY Runner](https://github.com/grammyjs/runner) - Scale grammY bots with concurrent update processing.
 - [Cloudflare Workers Telegram Bot](https://github.com/cvzi/telegram-bot-cloudflare) - Run bots on Cloudflare Workers (free tier friendly).
+- [Telegram Widget Cards](https://github.com/AbhishekPsah/telegram-widget-cards) - Open-source order, rating and subscription cards for Bot API 10.4 widgets, with a dependency-free Node.js example bot.
 
 ## Mini Apps (Web Apps)
 
@@ -196,6 +197,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [aiogram 3.x Documentation](https://docs.aiogram.dev/en/latest/) - Full docs for the aiogram Python framework.
 - [Webhook vs Long Polling](https://core.telegram.org/bots/webhooks) - Official comparison and setup guide.
 - [Deploy Telegram Bot to AWS Lambda](https://aws.amazon.com/blogs/compute/) - Serverless deployment walkthrough.
+- [Telegram Widgets (Bot API 10.4) Explained](https://dev.to/marylyn_roundy_e32b126c99/telegram-widgets-bot-api-104-interactive-cards-inside-chat-messages-with-a-working-example-46j9) - How in-chat widgets work, their limits, and a complete rating-card example.
 
 ## Community
 
