@@ -152,6 +152,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) - Self-hosted Telegram group bot that turns shared video links into native posts with media reuse and automatic updates.
 
 - [MediaDownloaderBot](https://t.me/MediaDownloader2323Bot) - Download videos and photos from YouTube, X/Twitter, and Reddit directly in Telegram.
+- [Vidmoat](https://t.me/vidmoat_bot) - Send a video clip with a caption to edit it by chat: captions, silence removal and vertical reframe.
 
 ## Group Management
 
