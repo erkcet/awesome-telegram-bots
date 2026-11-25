@@ -152,6 +152,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [LinkDownloaderBotForGroups](https://github.com/Avazbek22/LinkDownloaderBotForGroups) - Self-hosted Telegram group bot that turns shared video links into native posts with media reuse and automatic updates.
 
 - [MediaDownloaderBot](https://t.me/MediaDownloader2323Bot) - Download videos and photos from YouTube, X/Twitter, and Reddit directly in Telegram.
+- [EmojiPack](https://t.me/kartinka_emoji_bot?start=awesome_tg) - Slice images, PNGs, GIFs, and 3s videos into seamless 100-tile Telegram custom emoji mosaics.
 
 ## Group Management
 
@@ -194,6 +195,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [From BotFather to Hello World (Python)](https://core.telegram.org/bots/tutorial) - Official beginner tutorial.
 - [grammY Guide](https://grammy.dev/guide/) - Comprehensive guide for building bots with grammY (TypeScript/JS).
 - [aiogram 3.x Documentation](https://docs.aiogram.dev/en/latest/) - Full docs for the aiogram Python framework.
+- [Telegram Custom Emoji Mosaic Guide](https://github.com/iplavrikov-a11y/telegram-emoji-mosaic-ffmpeg) - Open-source guide and FFmpeg VP9 edge-smear script for seamless 100x100 custom emoji packs.
 - [Webhook vs Long Polling](https://core.telegram.org/bots/webhooks) - Official comparison and setup guide.
 - [Deploy Telegram Bot to AWS Lambda](https://aws.amazon.com/blogs/compute/) - Serverless deployment walkthrough.
 
