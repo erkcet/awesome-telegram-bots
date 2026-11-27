@@ -153,6 +153,8 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 
 - [MediaDownloaderBot](https://t.me/MediaDownloader2323Bot) - Download videos and photos from YouTube, X/Twitter, and Reddit directly in Telegram.
 
+- [Auto Reels Captions CLI (@railway_robot)](https://github.com/LUX1984/auto-reels-captions-cli) - Open-source Python + FFmpeg/libass tool and Telegram bot that burns word-highlighted Reels/TikTok captions, converts videos to `640x640` Telegram circles, and exports `.srt` files (MIT).
+
 ## Group Management
 
 - [Rose Bot](https://t.me/MissRose_bot) - Popular group management bot with moderation, filters, and notes.
@@ -175,12 +177,16 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 - [Weight Goal Bot](https://github.com/IgorShadurin/weight-telegram-bot) - Open-source bot for photo-backed weight goals, reminders, and progress charts.
 - [@Junction Bot](https://t.me/junction_bot) - Automates channel broadcasts, content aggregation, AI digests, and message copying.
 
+- [Receipt Splitter CLI (@Drat7robot)](https://github.com/LUX1984/receipt-splitter-cli) - Open-source AI receipt parser and interactive group bill splitter for Telegram (Splitwise alternative without extra apps, MIT).
+
 ## AI & LLM Bots
 
 - [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - ChatGPT integration with streaming, voice messages, and group support.
 - [LangChain Telegram Bot](https://github.com/langchain-ai/langchain) - Build conversational AI bots with LangChain.
 - [AskePub](https://github.com/GeiserX/AskePub) - Telegram bot that uses GPT-4o to generate AI study notes from ePub books.
 - [Untether](https://github.com/littlebearapps/untether) - Self-hosted Telegram bridge for running AI coding agents remotely.
+
+- [Voice Summary CLI (@Good_4robot)](https://github.com/LUX1984/voice-summary-cli) - Open-source voice note and call transcriber (filler removal + speaker diarization) and `/tldr` group chat summarizer bot (MIT).
 
 ## Developer Tools
 
